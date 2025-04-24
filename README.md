@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project of TOP, I will create a recipe list of some of my favorite dishes and doing it I will ensure my skills on making lists, links, images and the essential boilerplate.
